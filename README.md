@@ -4,7 +4,6 @@ This project will look at access to pharmacies in New York State to explore whic
 
 **Questions I aim to answer**:
 1. A study examining "pharmacy deserts" in Chicago found they were more likely to occur in minority communities. Is the same true in New York?
-2. Are pharmacy deserts more likely to occur in low income communities?
 
 **Data Source/Collection**:
 
