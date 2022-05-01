@@ -1,9 +1,6 @@
 # Mapping Pharmacy Deserts in New York State
 
-This project will look at access to pharmacies in New York State to explore which communities lack access to pharmacies.
-
-**Questions I aim to answer**:
-1. A study examining "pharmacy deserts" in Chicago found they were more likely to occur in minority communities. Is the same true in New York?
+This project will look at access to pharmacies in New York State to explore which communities lack access to pharmacies. A study examining "pharmacy deserts" in Chicago found they were more likely to occur in minority communities. Is the same true in New York?
 
 **Data Source/Collection**:
 
